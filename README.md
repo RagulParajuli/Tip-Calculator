@@ -1,9 +1,4 @@
-## Some of the sample Screenshorts of app:
-<img src="https://github.com/RagulParajuli/Tip-Calculator/assets/117198787/b20bffa6-f390-4b14-99a3-6fc72613aec2"  height="400" width="200" />
-<img src="https://github.com/RagulParajuli/Tip-Calculator/assets/117198787/a86733b0-4365-42e9-9892-96cad152fa53" height="400" width="200" />
-
 ### Here's a breakdown of the provided Android project in bullet points:
-
 # App Type:
   Tip calculator Android application.
   
@@ -34,3 +29,7 @@ Implements AdapterView.OnItemSelectedListener for Spinner handling.
 Toast messages for notifying users about missing inputs.
 
 # This project serves as a practical example of an Android app, showcasing UI design, user input handling, dynamic spinner usage, and basic calculation logic.
+
+## Some of the sample Screenshorts of app:
+<img src="https://github.com/RagulParajuli/Tip-Calculator/assets/117198787/b20bffa6-f390-4b14-99a3-6fc72613aec2"  height="400" width="200" />
+<img src="https://github.com/RagulParajuli/Tip-Calculator/assets/117198787/a86733b0-4365-42e9-9892-96cad152fa53" height="400" width="200" />
