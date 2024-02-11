@@ -28,7 +28,7 @@ Spinner and UI elements are initialized and configured in onCreate().
 Implements AdapterView.OnItemSelectedListener for Spinner handling.
 Toast messages for notifying users about missing inputs.
 
-# This project serves as a practical example of an Android app, showcasing UI design, user input handling, dynamic spinner usage, and basic calculation logic.
+** This project serves as a practical example of an Android app, showcasing UI design, user input handling, dynamic spinner usage, and basic calculation logic.**
 
 ## Some of the sample Screenshorts of app:
 <img src="https://github.com/RagulParajuli/Tip-Calculator/assets/117198787/b20bffa6-f390-4b14-99a3-6fc72613aec2"  height="400" width="200" />
